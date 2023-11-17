@@ -9,7 +9,7 @@ Anggota Kelompok :
 Berikut Tampilan dari hasil projek yang telah kami buat:
 
 # Tampilan Home Fragment
-![alt text](?https://github.com/DmzAng/UTS_Mobile_Praktikum/blob/master/app/sampledata/Screenshot%20(705).pngraw=true)
+![alt text](https://github.com/DmzAng/UTS_Mobile_Praktikum/blob/master/app/sampledata/Screenshot%20(705).png?raw=true)
 
 # Tampilan Food Fragment
 ![alt text](?https://github.com/DmzAng/UTS_Mobile_Praktikum/blob/master/app/sampledata/Screenshot%20(706).pngraw=true)
