@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Makanan Sulteng</string>
+    <string name="search">Search</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="food">Food</string>
+    <string name="account">Account</string>
+    <string name="makanan">Food</string>
+
+    <string-array name="food_name">
+        <item>Kaledo</item>
+        <item>Binte</item>
+        <item>Kapurung</item>
+        <item>Lalampa</item>
+        <item>Palumara</item>
+        <item>Uta Dada</item>
+        <item>Uta Kelo</item>
+        <item>Sambal Roa</item>
+    </string-array>
+
+    <string-array name="food_desc">
+               <item>Kaledo merupakan singkatan dari kaki lembu donggala, meskipun saat ini beberapa penjual ada pula yang menggunakan kaki sapi biasa.
+            Keduanya tetap sama lezatnya, karena diolah dengan cara direbus lama, sehingga daging yang dihasilkan pun mempunyai tekstur yang begitu empuk dan lembut serta lumer di dalam mulut.
+            Sup kaki ini memiliki ukuran tulang yang sangat besar, dagingnya juga tebal dan begitu berlimpah.</item>
+
+        <item>Milu siram atau biasa juga disebut dengan nama binte biluhuta, mungkin masih terdengar kurang familiar bagi masyarakat di luar pulau Sulawesi atau yang belum pernah bertAndang kemari.
+            Namun makanan khas yang memiliki bahan dasar jagung muda ini, sangat populer di daerah asalnya. Bahkan para wisatawan yang berkunjung ke sini, sangat terkesan dengan rasa dari milu siram.
+            Sup jagung ini biasanya disajikan dengan tambahan seperti udang atau ikan yang telah diolah terlebih dahulu.</item>
+
+        <item>Kapurung merupakan kuliner khas Sulawesi Tengah yang berupa adonan sagu yang dimasak. Sagu tersebut lalu diberi kuah kuning berupa kaldu ikan atau udang dengan irisan sayur bayam, kacang panjang, jagung, dan daging udang. Cita rasanya sangatlah gurih dan lezat. Kamu bisa mengonsumsi makanan ini saat malam hari saat udara sejuk. Satu piring hidangan ini sudah memiliki gizi yang lengkap, sebab ada karbohidrat, protein, serta serat.</item>
+
+        <item>Jika dilihat secara sepintas lalu, mungkin Anda akan mengira makanan khas Sulawesi Tengah satu ini adalah lemper. Bentuknya memang sangat mirip, namun lalampa lebih ramping dan lonjong.
+            Lalampa ini terbuat dari beras ketan putih, santan, serta beberapa bumbu dan ikan cakalang sebagai isiannya.</item>
+
+        <item>Kuliner satu ini berasal dari ibu kota Sulawesi Tengah, Palu, sehingga bahan utamanya menggunakan ikan khas dari daerah setempat.
+            Palumara sendiri memiliki cita rasa pedas dan asam, di mana rasa pedas ini menjadi latar belakang pemberian namanya. Karena orang yang mengonsumsinya jadi terlihat sedang marah karena wajahnya memerah akibat rasa pedas. </item>
+
+        <item>Jika Anda memesan menu uta dada di Sulawesi Tengah, umumnya Anda bisa memilih ingin menggunakan ikan cakalang atau ayam kampung.
+            Namun tentu tidak semua tempat menyediakan kedua varian secara bersama sama. Meski begitu, keduanya memiliki bumbu yang sama persis dan disajikan bersama kuah santan dengan rasa sedikit pedas.
+            Uta dada sendiri memang mempunyai arti yakni kuah santan, tidak heran jika kuah santan ini memang menjadi bahan utamanya. Yang membuat uta dada populer adalah aroma khasnya. </item>
+
+        <item>Jika dilihat dari namanya, Anda mungkin mengira bahwa makanan khas Sulawesi Tengah satu ini sedikit mirip dengan uta dada.
+            Pemikiran tersebut tidak salah, karena uta kelo atau sayur daun kelor juga menggunakan santan sebagai salah satu bahannya.
+            Untuk isiannya Anda akan menemukan daun kelor, potongan ikan, serta pisang kepok.</item>
+
+        <item>Sambal ikan roa menjadi salah satu makanan khas Sulawesi Tengah yang tidak boleh Anda lewatkan.
+            Rasa nikmat dari olahan ikan roa yang dicampur dengan cabai dan beberapa bumbu pelengkap ini, begitu diminati oleh para wisatawan bahkan dijadikan sebagai oleh oleh untuk dibawa pulang.</item>
+
+    </string-array>
+
+    <array name="food_photo">
+        <item>@drawable/kaledo</item>
+        <item>@drawable/binte</item>
+        <item>@drawable/kapurung</item>
+        <item>@drawable/lalampa</item>
+        <item>@drawable/palumara</item>
+        <item>@drawable/utadada</item>
+        <item>@drawable/utakelo</item>
+        <item>@drawable/roa</item>
+    </array>
+</resources>
